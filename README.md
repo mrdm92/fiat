@@ -30,10 +30,10 @@ Interestingly, while consumer prices relative to gold have generally declined ov
 
 **100 Years of Food Prices in Dollars (1913 - 2013)**
 
-![image](https://github.com/user-attachments/assets/a19fcc91-7606-4b19-a617-8ef59cd7c51c)
+![image](https://github.com/user-attachments/assets/84ad1354-f7e7-4e5c-b5dc-c725785949ed)
 
 **100 Years of Food Prices in Gold (1913 - 2013)**
 
-![image](https://github.com/user-attachments/assets/a37d7b72-490a-49b9-a051-f050f1b69338)
+![image](https://github.com/user-attachments/assets/f7a892cf-721a-4b8d-ac33-31d5345c6437)
 
 
